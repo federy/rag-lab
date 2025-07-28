@@ -71,3 +71,5 @@ web/test-results/*
 
 # local config files
 *.local.*
+
+/data
