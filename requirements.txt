@@ -4,3 +4,5 @@ openai
 diskcache
 langfuse
 backoff
+pandas
+jinja2
