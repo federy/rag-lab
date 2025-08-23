@@ -6,3 +6,6 @@ langfuse
 backoff
 pandas
 jinja2
+tqdm
+ipywidgets
+widgetsnbextension
