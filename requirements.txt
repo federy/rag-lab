@@ -10,3 +10,5 @@ tqdm
 ipywidgets
 widgetsnbextension
 scikit-learn
+lancedb
+tantivy
