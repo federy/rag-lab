@@ -76,3 +76,5 @@ web/test-results/*
 .cache*
 
 /data
+
+.lancedb
