@@ -12,3 +12,4 @@ widgetsnbextension
 scikit-learn
 lancedb
 tantivy
+rerankers[transformers]
